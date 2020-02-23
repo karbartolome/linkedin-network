@@ -7,8 +7,7 @@ Linkedin permite descargar los datos personales desde:
 
 ## Visualización
 
-<div w3-include-html="https://raw.githubusercontent.com/karbartolome/Linkedin-conexiones/master/treemap.html"></div>
-
+<img src="https://github.com/karbartolome/Linkedin-conexiones/blob/master/treemap.png"></img>
 
 
 ## Idea original
