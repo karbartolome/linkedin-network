@@ -11,7 +11,7 @@ Linkedin permite descargar los datos personales desde:
 
 Vínculos entre puestos y empresas de mis contactos de Linkedin (empresas con más de 2 contactos)
 
-<img src="https://github.com/karbartolome/Linkedin-conexiones/blob/master/network.png"></img>
+<img src="https://github.com/karbartolome/Linkedin-conexiones/blob/master/networklinkedin2.png"></img>
 
 <img src="https://github.com/karbartolome/Linkedin-conexiones/blob/master/treemap.png"></img>
 
