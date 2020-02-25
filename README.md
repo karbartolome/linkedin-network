@@ -3,6 +3,7 @@
 Linkedin permite descargar los datos personales desde: 
 
 *Ajustes y privacidad > Cómo utiliza Linkedin tus datos > Obtener una copia de tus datos*
+(el archivo incluye datos personales, como nombre, apellido, correo electrónico de los contactos, por lo que para subirlo a cualquier lado primero es necesario eliminar esos datos)
 
 ## Idea original
 <a href=https://towardsdatascience.com/visualizing-my-linkedin-network-c4b232ab2ad0>Visualizing My LinkedIn Network</a>
